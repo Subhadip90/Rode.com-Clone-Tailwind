@@ -40,7 +40,7 @@
 
 ## Project Demo
 
-> [rode.com website clone](../../../Video%20Recording%20of%20Projects/Rode-Clone-Recording.webm)
+> [rode.com website clone](Rode-Clone-Recording.webm)
 
 ## Project Screenshot
 
