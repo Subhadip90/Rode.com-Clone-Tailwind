@@ -30,7 +30,7 @@
 
 ## Time taken to Finish this project
 
-> I have taken 8 hours to understand and complete this project, this was my second project on Tailwind.
+> I have taken 8 hours to understand and complete this project, this is my second project on Tailwind.
 
 ## Feedback
 
